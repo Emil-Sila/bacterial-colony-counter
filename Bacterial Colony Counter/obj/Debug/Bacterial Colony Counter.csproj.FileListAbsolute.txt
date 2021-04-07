@@ -1,0 +1,24 @@
+D:\Programiranje\Bacterial Colony Counter\GIT\Bacterial Colony Counter\bin\Debug\Bacterial Colony Counter.exe.config
+D:\Programiranje\Bacterial Colony Counter\GIT\Bacterial Colony Counter\obj\Debug\Bacterial Colony Counter.exe
+D:\Programiranje\Bacterial Colony Counter\GIT\Bacterial Colony Counter\bin\Debug\Bacterial Colony Counter.exe
+D:\Programiranje\Bacterial Colony Counter\GIT\Bacterial Colony Counter\bin\Debug\Bacterial Colony Counter.pdb
+D:\Programiranje\Bacterial Colony Counter\GIT\Bacterial Colony Counter\bin\Debug\Cyotek.Windows.Forms.ImageBox.dll
+D:\Programiranje\Bacterial Colony Counter\GIT\Bacterial Colony Counter\bin\Debug\ZedGraph.dll
+D:\Programiranje\Bacterial Colony Counter\GIT\Bacterial Colony Counter\bin\Debug\Cyotek.Windows.Forms.ImageBox.xml
+D:\Programiranje\Bacterial Colony Counter\GIT\Bacterial Colony Counter\obj\Debug\Bacterial Colony Counter.csprojResolveAssemblyReference.cache
+D:\Programiranje\Bacterial Colony Counter\GIT\Bacterial Colony Counter\obj\Debug\Bacterial_Colony_Counter.BacterialColonyCounter.resources
+D:\Programiranje\Bacterial Colony Counter\GIT\Bacterial Colony Counter\obj\Debug\Bacterial_Colony_Counter.Properties.Resources.resources
+D:\Programiranje\Bacterial Colony Counter\GIT\Bacterial Colony Counter\obj\Debug\Bacterial Colony Counter.csproj.GenerateResource.Cache
+D:\Programiranje\Bacterial Colony Counter\GIT\Bacterial Colony Counter\obj\Debug\Bacterial Colony Counter.pdb
+D:\Programiranje\Bacterial Colony Counter\GIT\Bacterial Colony Counter\bin\Debug\opencv_core2410.dll
+D:\Programiranje\Bacterial Colony Counter\GIT\Bacterial Colony Counter\bin\Debug\opencv_imgproc2410.dll
+D:\Programiranje\Bacterial Colony Counter\GIT\Bacterial Colony Counter\bin\Debug\Emgu.CV.dll
+D:\Programiranje\Bacterial Colony Counter\GIT\Bacterial Colony Counter\bin\Debug\Emgu.CV.GPU.dll
+D:\Programiranje\Bacterial Colony Counter\GIT\Bacterial Colony Counter\bin\Debug\Emgu.CV.ML.dll
+D:\Programiranje\Bacterial Colony Counter\GIT\Bacterial Colony Counter\bin\Debug\Emgu.CV.UI.dll
+D:\Programiranje\Bacterial Colony Counter\GIT\Bacterial Colony Counter\bin\Debug\Emgu.Util.dll
+D:\Programiranje\Bacterial Colony Counter\GIT\Bacterial Colony Counter\bin\Debug\Emgu.CV.xml
+D:\Programiranje\Bacterial Colony Counter\GIT\Bacterial Colony Counter\bin\Debug\Emgu.CV.GPU.xml
+D:\Programiranje\Bacterial Colony Counter\GIT\Bacterial Colony Counter\bin\Debug\Emgu.CV.ML.xml
+D:\Programiranje\Bacterial Colony Counter\GIT\Bacterial Colony Counter\bin\Debug\Emgu.CV.UI.xml
+D:\Programiranje\Bacterial Colony Counter\GIT\Bacterial Colony Counter\bin\Debug\Emgu.Util.xml
